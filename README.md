@@ -1,7 +1,3 @@
-echo "# WebDev" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:AmericanHacker/WebDev.git
-git push -u origin master
+Hello World
 
+My First Time Using GitHub
